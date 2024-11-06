@@ -23,9 +23,8 @@ is CDFF framework. The provisioning activation requests are passed into service 
 therequested service for customer is activated or deactivated
 
 - **Responsibilities**:
-- • Attending the Daily stand-up meetings for queries on work and to update the status.
-**  **
-  • SPOC for Migration Controller Application UIV-Reporter Application.
+• Attending the Daily stand-up meetings for queries on work and to update the status.
+• SPOC for Migration Controller Application UIV-Reporter Application.
 • Understanding the business requirements, preparing requirements specification documents for all the enhancements
 proposed by the Customers.
 • Involving in gathering the requirement, analysis, design, and development of the project.
