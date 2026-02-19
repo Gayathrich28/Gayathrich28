@@ -2,11 +2,13 @@
 
 ## About Me
 
-Hey there! I'm Gayathri, a Computer Science  student at Lamar University with a passion for coding and crafting innovative solutions. Dynamic DevOps Engineer professional with 2 years of comprehensive experience in the Cloud and DevOps.This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! I'm Gayathri, a Computer Science  student at Lamar University with a passion for coding and crafting innovative solutions. Dynamic DevOps Engineer professional with 3 years of comprehensive experience in the Cloud and DevOps.This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ### Skills & Interests:
 
-- **Core Skills Programming**        : python, DevOps, Linux
+- **Core Skills Programming**        : python,AWS (EC2, VPC, IAM, S3, RDS, ELB, ECR, ECS), DynamoDB, S3, Lambda, Elasticsearch,
+                                        Kubernetes, Docker, Kafka, Spring, Angular, Terraform, Ansible, Jenkins, Github, CloudWatch, Bitbucket,
+                                        AutoScaling, Azure, GCP.
 - **Cloud Environment**              : AWS,Azure,DevOps
 - **Operating Systems**              : Linux, Windows
 - **Data Structures & Algorithms**   : Structuring Information for efficiency
@@ -47,7 +49,7 @@ environments and Installations.
  
 ### Connect with Me:
 
-- Email: gayathric2024@gmail.com
+- Email: gayathri.challa19@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gayathri2804
 - GitHub: https://github.com/Gayathrich28
 
