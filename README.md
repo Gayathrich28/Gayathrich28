@@ -17,7 +17,7 @@ Hey there! I'm Gayathri, a Computer Science  student at Lamar University with a 
 - **Interests**                      : Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
 - **Certifications**                 :AZ-900, GCP
 
- Work Experience 
+ -**Work Experience 
    TechMahindra, Hyderabad, Dec 2022 - Dec 2023, AWS Cloud  Engineer 
 • Designed and deployed scalable cloud infrastructure using compute, storage, and networking services.Designed an
 • Managed 15 AWS accounts, including the setup and configuration of EC2 instances, RDS databases, VPCs,Elastic Load Balancers (ELBs), Cloudfront distributions, Route53 hosted zones & health checks.
@@ -32,7 +32,7 @@ Hey there! I'm Gayathri, a Computer Science  student at Lamar University with a 
 • Created automated alerts around infrastructure issues leading to an improvement in the response time to critical errors by 91%.
 • Conceived and deployed automated reports regarding the performance of the web which saved 48 hours of manual reporting each month.
 • Automated end-to-end AWS infrastructure provisioning using Terraform, including IAM roles, networking, and compute resources, following infrastructure-as-code best practices.
-  Internship 
+ -** Internship 
     TechMahindra, Hyderabad, Dec 2020 - Dec 2021, Software Engineer 
 • The project involves mobile services provisioning and fixed services provisioning. Based on the products (mobile/fixed) chosen by the customer, an order is generated and flows through different systems. Here it follows two different flows for activating a service for mobile (MM), its CDPA framework, and for FixedNet (BM), the CDFF framework. The provisioning activation requests are passed into the service fulfillment system (SOM), where the requested service for the customer is activated or deactivated.
 Education 
