@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm Gayathri, a Computer Science  student at Lamar University with a passion for coding and crafting innovative solutions. Dynamic Cloud DevOps Engineer professional with 3 years of comprehensive experience in the Cloud and DevOps.This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! I'm Gayathri, a Computer Science  student at Lamar University with a passion for coding and crafting innovative solutions. Dynamic Cloud DevOps Engineer professional with 5 years of comprehensive experience in the Cloud and DevOps.This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ### Skills & Interests:
 
@@ -17,71 +17,89 @@ Hey there! I'm Gayathri, a Computer Science  student at Lamar University with a 
 - **Interests**                      : Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
 - **Certifications**                 :AZ-900, GCP
 
- ### Work Experience 
- TechMahindra, Hyderabad, Dec 2022 - Dec 2023, AWS Cloud  Engineer :
 
-• Designed and deployed scalable cloud infrastructure using compute, storage, and networking services.Designed an
-• Managed 15 AWS accounts, including the setup and configuration of EC2 instances, RDS databases, VPCs,Elastic Load Balancers (ELBs), Cloudfront distributions, Route53 hosted zones & health checks.
-• Developed 8 automation tools that streamlined infrastructure deployment processes using Bash scripting language. 
-• Reduced the average response time by 80% through automation of manual processes using 65 Ansible modules.
-• Improved RW's security posture by implementing multi-factor authentication (MFA) on 21 administrators.
-• Provisioned infrastructure using Terraform, reducing manual deployment time by 45% and improving environment consistency. 
-• Led a cost-saving initiative by identifying unused AWS resources and establishing S3 bucket expiration policies, leading to an annual cost reduction exceeding $50,000 in AWS expenditures.
+###  Work Experience
 
+### Site Reliability Engineer (SRE) | Intuit | Texas, USA Jun 2025 – Present
 
-TechMahindra, Hyderabad, Dec 2021- Dec 2022, AWS DevOps  Engineer :
-
-•Built CI/CD pipelines with Jenkins and GitHub Actions, reducing manual effort by 60%.
-• Containerized applications using Docker and deployed microservices on Kubernetes (EKS), improving scalability and availability by 40%.
-• Created automated alerts around infrastructure issues leading to an improvement in the response time to critical errors by 91%.
-• Conceived and deployed automated reports regarding the performance of the web which saved 48 hours of manual reporting each month.
-• Automated end-to-end AWS infrastructure provisioning using Terraform, including IAM roles, networking, and compute resources, following infrastructure-as-code best practices.
-
-
- Internship 
- 
- TechMahindra, Hyderabad, Dec 2020 - Dec 2021, Software Engineer 
-• The project involves mobile services provisioning and fixed services provisioning. Based on the products (mobile/fixed) chosen by the customer, an order is generated and flows through different systems. Here it follows two different flows for activating a service for mobile (MM), its CDPA framework, and for FixedNet (BM), the CDFF framework. The provisioning activation requests are passed into the service fulfillment system (SOM), where the requested service for the customer is activated or deactivated.
-
-Education 
-  Lamar University, Houston, Jan 2024 - Dec 2025, Masters in Computer Science, Grade: 3.84/4
-  
-Awards and Certificates 
-• Mentor at Scaler Academy: Helping students and working professionals to get better at problem solving, coding, and system design. 
-• AWS Certified Cloud Practitioner - Amazon Web Services. 
-•  Microsoft Certified - Azure Fundamentals
-• Google Cloud Certified Associate Cloud Engineer.
+- Engineered scalable Amazon EKS platform infrastructure using Terraform, Argo CD, GitOps, Helm, and reusable Infrastructure as Code (IaC)
+   modules, standardizing Kubernetes deployments across multi-tenant environments and reducing manual operational effort by 40%.
+- Designed and automated self-healing workflows using Python, Go, Kubernetes, and Linux automation to proactively detect service
+   anomalies, trigger automated remediation, reduce operational toil, and improve Service Level Objectives (SLOs), contributing to a 30%
+    reduction in high-severity production incidents.
+- Built and standardized production observability using OpenTelemetry, Prometheus, Grafana, Splunk, Wavefront, and Golden Signal
+   dashboards, improving application visibility, accelerating root cause analysis, and reducing Mean Time to Resolution (MTTR).
+- Led production incident response, Root Cause Analysis (RCA), blameless postmortems, and error budget reviews, improving platform
+   reliability and long-term service resilience.
+- Drove cloud infrastructure optimization through FinOps, capacity planning, disaster recovery (DR), and chaos engineering, improving
+   infrastructure utilization by 25% while maintaining platform readiness.
+-Implemented GitOps-based continuous delivery pipelines using Argo CD with canary, blue/green, and rolling deployment strategies,
+   improving release reliability and minimizing deployment risk.
 
 
-### Projects:
-- **Project Description**: The project Involves Mobile Services Provisioning and Fixed Services Provisioning, Based
-on products(mobile/fixed) chosen by customer, an order is generated and flows through differentsystems. Here It
-follows two different flows for activating a service for Mobile (MM) its CDPA framework and forFixedNet (BM) it
-is CDFF framework. The provisioning activation requests are passed into service fulfilment systems (SOM) where
-therequested service for customer is activated or deactivated
+### DevOps Engineer | Freshworks | India Dec 2021 – Dec 2023
 
-- **Responsibilities**:
-• Attending the Daily stand-up meetings for queries on work and to update the status.
-• SPOC for Migration Controller Application UIV-Reporter Application.
-• Understanding the business requirements, preparing requirements specification documents for all the enhancements
-proposed by the Customers.
-• Involving in gathering the requirement, analysis, design, and development of the project.
-• Preparing a HLD LLD document on confluence.
-• Implementing Migration controller, UIV, UIV-Reporter Application, Mobility Adaptor in Eclipse and NEI using
-Fulfilment SDK.
-• Maintaining GIT Repositories, Handling Releases and Branching activities for GIT.
-• Dockers Deployments on Kubernetes platform.
-• Pod level debugging on Kubernetes dashboard and Pod level monitoring on Kubernetes App Metrics.
-• Hardware sizing on respective namespaces and clusters by using Kubernetes platform.FS and EBS Migration.
-• Deployments using by CICD pipeline with XL Deploy tool.
-• Creating folders and storing files in Minio Browser (S3 Bucket).
-• Creating roles and assigning access permissions in key clock.
-• Infrastructure related activities like Namespace creation, creating and pushing docker images to respective
-environments and Installations.
-• Working with Terraform as Infrastructure as code.Involved in providing solutions for bug fixes.
-• Working in Agile Methodology and involved in all the scrum calls.
-• Coordination with the team regarding Requirements/Problems and act accordingly.
-• Responsible for Dev, Test, Production deployment as per requirement. 
+ -Engineered scalable AWS infrastructure using Terraform and AWS CloudFormation, standardizing multi-region deployments across
+   development, staging, and production environments while improving deployment consistency by 35%.
+- Designed and optimized GitHub Actions and Argo CD GitOps pipelines to automate build, testing, security validation, and deployments,
+   reducing release time by 30%.
+- Engineered and managed Amazon EKS clusters using Helm, RBAC, HPA, VPA, Cluster Autoscaler, Kubernetes worker node management,
+   and NGINX Ingress Controller, improving platform scalability and availability.
+-Implemented secure Kubernetes deployment standards using HashiCorp Vault, OPA, Kyverno, SonarQube, Trivy, and Snyk, strengthening
+  DevSecOps compliance across production workloads.
+ -Built observability solutions using OpenTelemetry, Prometheus, Grafana, and Amazon CloudWatch, enabling proactive monitoring, faster
+  incident detection, and root cause analysis.
+- Designed and maintained highly available cloud networking using Amazon Route 53, ELB, CloudFront, Amazon VPC, Redis, Amazon RDS,
+   and Apache Kafka, improving application availability and messaging reliability.
+
+
+###  Junior DevOps Engineer | Cognizant | India Jan 2020 – Dec 2021
+
+ -Engineered Jenkins CI/CD pipelines to automate application build, testing, and deployment workflows, reducing manual release effort by
+   35% while improving deployment consistency.
+- Automated cloud infrastructure provisioning using Terraform and AWS CloudFormation, standardizing environments and accelerating
+   infrastructure delivery.
+- Containerized enterprise applications using Docker and Kubernetes, leveraging Helm, Linux administration, and RBAC to improve
+   deployment consistency and operational efficiency.
+ -Implemented infrastructure monitoring using Prometheus, Grafana, and Amazon CloudWatch, improving production visibility and reducing
+   Mean Time to Detect (MTTD).
+ -Partnered with development, QA, and operations teams to streamline CI/CD processes, support cloud migration initiatives, document operational        runbooks, and improve release reliability.
+
+### Projects 
+
+### Cloud-Native MLOps Platform
+ -Technologies: AWS, Amazon EKS, Kubernetes, Docker, Helm, Terraform, GitHub Actions, Argo CD, Python, OpenTelemetry, Prometheus,
+     Grafana
+-Designed and implemented a cloud-native MLOps platform to automate model training, validation, versioning, and deployment using
+      Kubernetes-native workflows.
+- Built containerized ML and LLM inference services on Amazon EKS using Docker, Kubernetes, and Helm, improving deployment
+     consistency, scalability, and operational reliability.
+- Automated GitOps-based CI/CD pipelines with GitHub Actions and Argo CD while integrating OpenTelemetry, Prometheus, and Grafana for
+     end-to-end observability and proactive monitoring.
+
+
+### Cloud Infrastructure Automation Platform
+-Technologies: AWS, Terraform, AWS CloudFormation, Amazon EKS, Docker, Helm, GitHub Actions, Argo CD, Linux, Route 53, CloudFront,
+  ELB, Prometheus, Grafana, CloudWatch
+- Engineered reusable Infrastructure as Code (IaC) modules using Terraform and AWS CloudFormation to automate infrastructure
+    provisioning across multiple environments.
+- Built scalable Kubernetes platforms on Amazon EKS using Helm, Argo CD, and GitOps practices while implementing canary, blue/green, and
+    rolling deployment strategies.
+- Optimized cloud infrastructure through Linux administration, capacity planning, disaster recovery planning, and FinOps initiatives,
+    contributing to 99.99% platform availability and 18% infrastructure cost reduction.
+
+
+### CERTIFICATIONS
+  Google Cloud Certified – Associate Cloud Engineer (ACE)
+ Microsoft Certified: Azure Fundamentals (AZ-900)
+ AWS Certified Cloud Practitioner (CLF-C02)
+
+###  EDUCATION
+Master of Science in Computer Science
+Lamar University | Beaumont, Texas, USA Dec 2025
+Bachelor of Technology in Electronics and Computer Engineering
+Sri Padmavathi Engineering College | Tirupati, Andhra Pradesh, India Jun 2021
+
  
 ### Connect with Me:
 
